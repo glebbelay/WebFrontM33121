@@ -1,6 +1,7 @@
 .table {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-columns: 1fr;
     border-collapse: collapse;
     width: 100%;
   }
